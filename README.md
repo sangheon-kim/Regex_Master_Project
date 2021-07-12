@@ -4,7 +4,7 @@
 
 - ### Sangheon Kim
   - #### ksj8367@gmail.com (email)
-  - #### @sangheon-kim (github)
+  - #### <a href="https://github.com/sangheon-kim">@sangheon-kim</a> (github)
 - ### Jaehyun Choi
   - #### re.you.cat@gmail.com (email)
   - #### @reyoucat (github)
