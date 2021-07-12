@@ -20,6 +20,8 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 ## Day 01
 
+<hr />
+
 - Page 46 - 51 (01. 리터럴 텍스트에 일치, 02 - 비인쇄 문자에 일치)
   - 과제 : 위 테스트 문장에서 Lorem의 개수를 출력하라
     ![](img/sh-07-12-22-58.png)
@@ -37,6 +39,10 @@ str.match(reg).length;
 ```js
 
 ```
+
+## Day 02
+
+<hr />
 
 - Page 52 ~ 59 (03. 여러 문자 중 하나와 일치, 04. 모든 문자와 일치)
   - 과제 : 위 테스트 문장에서 Lorem이 포함되는 문장을 추출하고, 길이 값 출력
