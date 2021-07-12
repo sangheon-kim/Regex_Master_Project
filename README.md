@@ -1,4 +1,4 @@
-# 정규 표현식 마스터하자
+# RegExp Master Project
 
 ## Member
 
@@ -9,7 +9,7 @@
   - #### re.you.cat@gmail.com (email)
   - #### @reyoucat (github)
 
-### 테스트 문장
+### Test Sentence
 
 ```js
 const str = `Where does it come from?
@@ -23,7 +23,10 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 <hr />
 
 - Page 46 - 51 (01. 리터럴 텍스트에 일치, 02 - 비인쇄 문자에 일치)
+
   - 과제 : 위 테스트 문장에서 Lorem의 개수를 출력하라
+
+    `Result Image`<br />
     ![](img/sh-07-12-22-58.png)
 
 `Sangheon`
@@ -46,6 +49,8 @@ str.match(reg).length;
 
 - Page 52 ~ 59 (03. 여러 문자 중 하나와 일치, 04. 모든 문자와 일치)
   - 과제 : 위 테스트 문장에서 Lorem이 포함되는 문장을 추출하고, 길이 값 출력
+
+`Result Image`<br />
 
 ![](img/sh-07-12-22-57.png)
 
